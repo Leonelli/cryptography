@@ -1,0 +1,2 @@
+RSA.exe ENC Chiave.pub.xml plaintext.txt plaintext.rsa
+RSA.exe DEC Chiave.pri.xml plaintext.rsa plaintext.txt

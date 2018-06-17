@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crypto", "crypto\crypto.csproj", "{E9227636-3839-405D-9BC0-96CEAD51429B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA", "RSA\RSA.csproj", "{E64188A4-9FC2-422F-904F-AEAF680C8FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{5C4FE223-5B5A-4CC7-A3F5-40ED025E1E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{1B9143AA-246D-4296-9F23-441567C79E84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9227636-3839-405D-9BC0-96CEAD51429B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9227636-3839-405D-9BC0-96CEAD51429B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9227636-3839-405D-9BC0-96CEAD51429B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9227636-3839-405D-9BC0-96CEAD51429B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E64188A4-9FC2-422F-904F-AEAF680C8FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64188A4-9FC2-422F-904F-AEAF680C8FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64188A4-9FC2-422F-904F-AEAF680C8FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64188A4-9FC2-422F-904F-AEAF680C8FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C4FE223-5B5A-4CC7-A3F5-40ED025E1E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4FE223-5B5A-4CC7-A3F5-40ED025E1E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4FE223-5B5A-4CC7-A3F5-40ED025E1E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4FE223-5B5A-4CC7-A3F5-40ED025E1E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9143AA-246D-4296-9F23-441567C79E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9143AA-246D-4296-9F23-441567C79E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9143AA-246D-4296-9F23-441567C79E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9143AA-246D-4296-9F23-441567C79E84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDD569F2-05D9-48EF-8C9A-C40D3F76ADB7}
+	EndGlobalSection
+EndGlobal

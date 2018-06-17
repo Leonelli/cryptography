@@ -1,0 +1,135 @@
+c:\users\utente\documents\visual studio 2017\Projects\crypto\crypto\bin\Debug\crypto.exe.config
+c:\users\utente\documents\visual studio 2017\Projects\crypto\crypto\bin\Debug\crypto.exe
+c:\users\utente\documents\visual studio 2017\Projects\crypto\crypto\bin\Debug\crypto.pdb
+c:\users\utente\documents\visual studio 2017\Projects\crypto\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+c:\users\utente\documents\visual studio 2017\Projects\crypto\crypto\obj\Debug\crypto.Form1.resources
+c:\users\utente\documents\visual studio 2017\Projects\crypto\crypto\obj\Debug\crypto.Properties.Resources.resources
+c:\users\utente\documents\visual studio 2017\Projects\crypto\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
+c:\users\utente\documents\visual studio 2017\Projects\crypto\crypto\obj\Debug\crypto.exe
+c:\users\utente\documents\visual studio 2017\Projects\crypto\crypto\obj\Debug\crypto.pdb
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\crypto\crypto\bin\Debug\crypto.exe.config
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\crypto\crypto\bin\Debug\crypto.exe
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\crypto\crypto\bin\Debug\crypto.pdb
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\crypto\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\crypto\crypto\obj\Debug\crypto.Form1.resources
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\crypto\crypto\obj\Debug\crypto.Properties.Resources.resources
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\crypto\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\crypto\crypto\obj\Debug\crypto.csproj.CoreCompileInputs.cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\crypto\crypto\obj\Debug\crypto.exe
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\crypto\crypto\obj\Debug\crypto.pdb
+C:\Users\utente\Desktop\repo\crypto\bin\Debug\crypto.exe.config
+C:\Users\utente\Desktop\repo\crypto\bin\Debug\crypto.exe
+C:\Users\utente\Desktop\repo\crypto\bin\Debug\crypto.pdb
+C:\Users\utente\Desktop\repo\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+C:\Users\utente\Desktop\repo\crypto\obj\Debug\crypto.Form1.resources
+C:\Users\utente\Desktop\repo\crypto\obj\Debug\crypto.Properties.Resources.resources
+C:\Users\utente\Desktop\repo\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
+C:\Users\utente\Desktop\repo\crypto\obj\Debug\crypto.exe
+C:\Users\utente\Desktop\repo\crypto\obj\Debug\crypto.pdb
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo\crypto\bin\Debug\crypto.exe.config
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo\crypto\bin\Debug\crypto.exe
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo\crypto\bin\Debug\crypto.pdb
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo\crypto\obj\Debug\crypto.Form1.resources
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo\crypto\obj\Debug\crypto.Properties.Resources.resources
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo\crypto\obj\Debug\crypto.csproj.CoreCompileInputs.cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo\crypto\obj\Debug\crypto.exe
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo\crypto\obj\Debug\crypto.pdb
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo2\crypto\bin\Debug\crypto.exe.config
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo2\crypto\bin\Debug\crypto.exe
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo2\crypto\bin\Debug\crypto.pdb
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo2\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo2\crypto\obj\Debug\crypto.Form1.resources
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo2\crypto\obj\Debug\crypto.Properties.Resources.resources
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo2\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo2\crypto\obj\Debug\crypto.csproj.CoreCompileInputs.cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo2\crypto\obj\Debug\crypto.exe
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\repo2\crypto\obj\Debug\crypto.pdb
+Z:\Desktop\repo2\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+Z:\Desktop\repo2\crypto\obj\Debug\crypto.Form1.resources
+Z:\Desktop\repo2\crypto\obj\Debug\crypto.Properties.Resources.resources
+Z:\Desktop\repo2\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
+Z:\Desktop\repo2\crypto\obj\Debug\crypto.csproj.CoreCompileInputs.cache
+E:\Informatica\SezBi\5Bi\Nuova cartella\repo2\crypto\bin\Debug\crypto.exe.config
+E:\Informatica\SezBi\5Bi\Nuova cartella\repo2\crypto\bin\Debug\crypto.exe
+E:\Informatica\SezBi\5Bi\Nuova cartella\repo2\crypto\bin\Debug\crypto.pdb
+E:\Informatica\SezBi\5Bi\Nuova cartella\repo2\crypto\bin\Debug\ClassLibrary.dll
+E:\Informatica\SezBi\5Bi\Nuova cartella\repo2\crypto\bin\Debug\ClassLibrary.pdb
+E:\Informatica\SezBi\5Bi\Nuova cartella\repo2\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+E:\Informatica\SezBi\5Bi\Nuova cartella\repo2\crypto\obj\Debug\crypto.Form1.resources
+E:\Informatica\SezBi\5Bi\Nuova cartella\repo2\crypto\obj\Debug\crypto.Properties.Resources.resources
+E:\Informatica\SezBi\5Bi\Nuova cartella\repo2\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
+E:\Informatica\SezBi\5Bi\Nuova cartella\repo2\crypto\obj\Debug\crypto.csproj.CoreCompileInputs.cache
+E:\Informatica\SezBi\5Bi\Nuova cartella\repo2\crypto\obj\Debug\crypto.exe
+E:\Informatica\SezBi\5Bi\Nuova cartella\repo2\crypto\obj\Debug\crypto.pdb
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\RSA\crypto\bin\Debug\crypto.exe.config
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\RSA\crypto\bin\Debug\crypto.exe
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\RSA\crypto\bin\Debug\crypto.pdb
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\RSA\crypto\bin\Debug\ClassLibrary.dll
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\RSA\crypto\bin\Debug\ClassLibrary.pdb
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\RSA\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\RSA\crypto\obj\Debug\crypto.Form1.resources
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\RSA\crypto\obj\Debug\crypto.Properties.Resources.resources
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\RSA\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\RSA\crypto\obj\Debug\crypto.csproj.CoreCompileInputs.cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\RSA\crypto\obj\Debug\crypto.exe
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\RSA\crypto\obj\Debug\crypto.pdb
+C:\Users\utente\Desktop\RSA\crypto\bin\Debug\crypto.exe.config
+C:\Users\utente\Desktop\RSA\crypto\bin\Debug\crypto.exe
+C:\Users\utente\Desktop\RSA\crypto\bin\Debug\crypto.pdb
+C:\Users\utente\Desktop\RSA\crypto\bin\Debug\ClassLibrary.dll
+C:\Users\utente\Desktop\RSA\crypto\bin\Debug\ClassLibrary.pdb
+C:\Users\utente\Desktop\RSA\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+C:\Users\utente\Desktop\RSA\crypto\obj\Debug\crypto.Form1.resources
+C:\Users\utente\Desktop\RSA\crypto\obj\Debug\crypto.Properties.Resources.resources
+C:\Users\utente\Desktop\RSA\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
+C:\Users\utente\Desktop\RSA\crypto\obj\Debug\crypto.exe
+C:\Users\utente\Desktop\RSA\crypto\obj\Debug\crypto.pdb
+C:\Lavoro-Temp\rsa\crypto\bin\Debug\crypto.exe.config
+C:\Lavoro-Temp\rsa\crypto\bin\Debug\crypto.exe
+C:\Lavoro-Temp\rsa\crypto\bin\Debug\crypto.pdb
+C:\Lavoro-Temp\rsa\crypto\bin\Debug\ClassLibrary.dll
+C:\Lavoro-Temp\rsa\crypto\bin\Debug\ClassLibrary.pdb
+C:\Lavoro-Temp\rsa\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+C:\Lavoro-Temp\rsa\crypto\obj\Debug\crypto.Form1.resources
+C:\Lavoro-Temp\rsa\crypto\obj\Debug\crypto.Properties.Resources.resources
+C:\Lavoro-Temp\rsa\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
+C:\Lavoro-Temp\rsa\crypto\obj\Debug\crypto.csproj.CoreCompileInputs.cache
+C:\Lavoro-Temp\rsa\crypto\obj\Debug\crypto.exe
+C:\Lavoro-Temp\rsa\crypto\obj\Debug\crypto.pdb
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\bin\Debug\crypto.exe.config
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\bin\Debug\crypto.exe
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\bin\Debug\crypto.pdb
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\bin\Debug\ClassLibrary.dll
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\bin\Debug\ClassLibrary.pdb
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\obj\Debug\crypto.Form1.resources
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\obj\Debug\crypto.Properties.Resources.resources
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\obj\Debug\crypto.csproj.CoreCompileInputs.cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\obj\Debug\crypto.exe
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\obj\Debug\crypto.pdb
+C:\Users\utente\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\bin\Debug\crypto.exe.config
+C:\Users\utente\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\bin\Debug\crypto.exe
+C:\Users\utente\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\bin\Debug\crypto.pdb
+C:\Users\utente\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\bin\Debug\ClassLibrary.dll
+C:\Users\utente\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\bin\Debug\ClassLibrary.pdb
+C:\Users\utente\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+C:\Users\utente\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\obj\Debug\crypto.Form1.resources
+C:\Users\utente\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\obj\Debug\crypto.Properties.Resources.resources
+C:\Users\utente\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
+C:\Users\utente\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\obj\Debug\crypto.exe
+C:\Users\utente\Desktop\AES-master-c089ef85bb4f7eedc24b91cb82242d74cca2a393\crypto\obj\Debug\crypto.pdb
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES\crypto\bin\Debug\crypto.exe.config
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES\crypto\bin\Debug\crypto.exe
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES\crypto\bin\Debug\crypto.pdb
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES\crypto\bin\Debug\ClassLibrary.dll
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES\crypto\bin\Debug\ClassLibrary.pdb
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES\crypto\obj\Debug\crypto.Form1.resources
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES\crypto\obj\Debug\crypto.Properties.Resources.resources
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES\crypto\obj\Debug\crypto.csproj.CoreCompileInputs.cache
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES\crypto\obj\Debug\crypto.exe
+\\Repo\Studenti$\Informatica\SezBi\5Bi\Matteo.Leonelli\Desktop\AES\crypto\obj\Debug\crypto.pdb
